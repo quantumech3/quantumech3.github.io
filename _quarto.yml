@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "quantumech3.github.io"
+  title: "Scott Burgert's Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/quantumech3
+      - icon: linkedin
+        href: https://www.linkedin.com/in/scott-burgert-0b27a1178/
 format:
   html:
     theme: cosmo
