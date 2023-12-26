@@ -1,5 +1,5 @@
 ---
-title: "quantumech3.github.io"
+title: "Blog List"
 listing:
   contents: posts
   sort: "date desc"

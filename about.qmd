@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile.jpeg
 about:
   template: jolla
   links:
@@ -10,7 +10,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/quantumech3
+    - icon: book
+      text: Resume
+      href: https://drive.google.com/file/d/1WMX6dgyRZIXhpBw2kPpuSp5lAH2o9AY7/view?usp=sharing
 
 ---
 
-About this blog
+Comp Sci. + Applied Math Double Major @ SBU
+
+Strong interest in Computer Graphics, Vision, and Deep Learning.
