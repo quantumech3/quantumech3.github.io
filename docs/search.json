@@ -11,7 +11,7 @@
     "href": "posts/nb/test.html",
     "title": "nb",
     "section": "",
-    "text": "import numpy as np\nfrom matplotlib import pyplot as plt\n\nplt.plot(np.linspace(0,1))\n\n\n\n\nint main()\n{\n    printf(\"test test stark can you see this\");\n}"
+    "text": "So today I wanted to talk about plots. Here is an example of a plot. I totally did not write this with ChatGPT.\nPlots are essential elements in storytelling that drive the narrative forward and engage the audience. A plot refers to the sequence of events and actions that occur within a story, forming the framework for the story’s development and resolution. It typically involves a combination of conflict, rising action, climax, and resolution. Plots can be intricate and multi-layered, incorporating various subplots and twists to create suspense and intrigue. They provide the structure through which characters’ goals, motivations, and conflicts are explored and resolved, captivating readers and viewers alike. Overall, plots play a crucial role in shaping the overall storytelling experience and are instrumental in creating compelling and memorable narratives.\nContribute — The color palette of the Dracula theme\n\nplt.plot(np.linspace(0,1))\n\n\n\n\nint main()\n{\n    printf(\"test test stark can you see this\");\n}"
   },
   {
     "objectID": "index.html",

@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+@font-face {
+    font-family: 'Fira Code';
+    src: url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+}
+
+// Base document colors
+$body-bg: #181818;
+$body-color: rgb(223, 223, 223);
+$link-color: #db75d6;
+$navbar-bg: rgb(14 12 11);
+
+// Code blocks
+$code-block-bg: rgb(14 12 11);
+$font-family-monospace: 'Fira Code', monospace;
+$code-block-bg-alpha: -.8;
