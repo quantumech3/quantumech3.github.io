@@ -12,7 +12,7 @@ about:
       href: https://github.com/quantumech3
     - icon: book
       text: Resume
-      href: https://drive.google.com/file/d/1WMX6dgyRZIXhpBw2kPpuSp5lAH2o9AY7/view?usp=sharing
+      href: resume.pdf
 
 ---
 
