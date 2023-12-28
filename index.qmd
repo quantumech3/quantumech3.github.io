@@ -1,14 +1,24 @@
 ---
-title: "Blog List"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "About"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: book
+      text: Blogs
+      href: blogs.qmd
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/scott-burgert-0b27a1178/
+    - icon: github
+      text: Github
+      href: https://github.com/quantumech3
+    - icon: bi-file-person
+      text: Resume
+      href: resume.pdf
+
 ---
 
+Comp Sci. + Applied Math Double Major @ SBU
 
+Strong interest in Computer Graphics, Vision, and Deep Learning.

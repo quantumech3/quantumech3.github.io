@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
     "section": "",
-    "text": "Comp Sci. + Applied Math Double Major @ SBU\nStrong interest in Computer Graphics, Vision, and Deep Learning."
+    "text": "Welcome To My Website!\n\n\n\n\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2023\n\n\nScott Burgert\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome-to-my-website/index.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Blog List",
+    "title": "About",
     "section": "",
-    "text": "Welcome To My Website!\n\n\n\n\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2023\n\n\nScott Burgert\n\n\n\n\n\n\nNo matching items"
+    "text": "Comp Sci. + Applied Math Double Major @ SBU\nStrong interest in Computer Graphics, Vision, and Deep Learning."
   }
 ]

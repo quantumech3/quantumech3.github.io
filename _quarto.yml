@@ -5,21 +5,21 @@ project:
     resume.pdf
 
 website:
-  title: "Scott Burgert's Blog"
+  title: "Scott Burgert's Site"
   navbar:
     right:
-      - about.qmd
+      - index.qmd
+      - blogs.qmd
       - icon: github
         href: https://github.com/quantumech3
       - icon: linkedin
         href: https://www.linkedin.com/in/scott-burgert-0b27a1178/
-      - icon: book
+      - icon: bi-file-person
         href: resume.pdf
 
 format:
   html:
     theme: [cosmo, dark.scss]
     css: styles.css
-
 
 
