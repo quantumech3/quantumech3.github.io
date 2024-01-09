@@ -2,6 +2,7 @@
   {
     "listing": "/blogs.html",
     "items": [
+      "/posts/matrix-multiplication/index.html",
       "/posts/welcome-to-my-website/index.html"
     ]
   }
